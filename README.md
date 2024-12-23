@@ -18,3 +18,9 @@ all_paths: Prints all possible paths from the start node to the target node alon
 draw_graph: Draws the graph using the "networkx" and "matplotlib" libraries
 
 draw_optimal_path: Finds the optimal path from final_dict and highlights it on the graph using the "networkx" and "matplotlib" libraries
+
+![](https://github.com/IronNur/UCS--Uniform-Cost-Search-/blob/main/Figure_1.png)
+
+![](https://github.com/IronNur/UCS--Uniform-Cost-Search-/blob/main/Figure_2.png)
+
+![](https://github.com/IronNur/UCS--Uniform-Cost-Search-/blob/main/image.png)
